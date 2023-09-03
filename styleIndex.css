@@ -1,12 +1,13 @@
 #AboutMeButton {
     width: 250px;
     height: 250px;
-    padding-left: 400px;
+    
 }
 
 #WebsiteHeader {
     font-size: 100px;
     text-align: center;
+    margin: 0%;
 }
 
 #RubensPicture {
@@ -15,6 +16,8 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
+    margin-top: 0px;
+    
 }
 
 #RubensText {
@@ -25,24 +28,41 @@
     border: 5px solid gray;
     margin-left: auto;
     margin-right: auto;
+
+}
+
+#YoutubeButton {
+    width: 250px;
+    height: 250px;
+ 
+}
+
+#InstagramButton {
+    width: 250px;
+    height: 250px;
     
 }
 
-#YoutubeButton{
+#LinkedinButton {
     width: 250px;
     height: 250px;
-    padding-left: 200px;
+ 
 }
 
-#InstagramButton{
-    width: 250px;
-    height: 250px;
-    padding-left: 200px;
+#WebsiteHeader {
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif
 }
 
-#LinkedinButton{
-    width: 250px;
-    height: 250px;
-    padding-top: 150px;
-    padding-left: 390px;
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+
+    row-gap: 100px;
+    column-gap: 200px;
+    flex-wrap: wrap;
+    padding-top: 60px;
+    padding-left: 120px;
+    
 }

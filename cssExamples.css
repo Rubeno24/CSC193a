@@ -1,0 +1,9 @@
+p {
+    color: red;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: large;
+    font-weight: 900;
+    text-decoration: underline;
+    text-align: center;
+    line-height: 2;
+  }
