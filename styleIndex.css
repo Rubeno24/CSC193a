@@ -1,0 +1,48 @@
+#AboutMeButton {
+    width: 250px;
+    height: 250px;
+    padding-left: 400px;
+}
+
+#WebsiteHeader {
+    font-size: 100px;
+    text-align: center;
+}
+
+#RubensPicture {
+    width: 300px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#RubensText {
+    font-size: 25px;
+    text-align: center;
+    width: 500px;
+    padding: 20px;
+    border: 5px solid gray;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+#YoutubeButton{
+    width: 250px;
+    height: 250px;
+    padding-left: 200px;
+}
+
+#InstagramButton{
+    width: 250px;
+    height: 250px;
+    padding-left: 200px;
+}
+
+#LinkedinButton{
+    width: 250px;
+    height: 250px;
+    padding-top: 150px;
+    padding-left: 390px;
+}
