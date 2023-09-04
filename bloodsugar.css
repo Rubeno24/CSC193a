@@ -1,0 +1,25 @@
+#BloodSugarTracker{
+    text-align: center;
+    font-size: 75px;
+}
+.flex-container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap
+   
+}
+p{
+    font-size: 40px;
+    margin-left: 100px;
+    display:inline-block;
+    
+
+}
+fieldset{
+    width: auto;
+}
+input{
+    text-align: center;
+    
+    font-size: 40px;
+}
