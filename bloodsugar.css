@@ -10,14 +10,14 @@
    
 }
 #pname{
-    font-size:50px ;
+    font-size:70px ;
     margin-left: 100px;
     display:inline-block;
     
 
 }
 #pBS{
-    font-size:50px ;
+    font-size:70px ;
     margin-left: 100px;
     display:inline-block;
 }
@@ -39,7 +39,6 @@ button{
 
 #flex{
     text-align: left;
-    margin: 0;
-    padding: 0;
-    font-size: 40px;
+   
+    font-size: 50px;
 }
