@@ -9,7 +9,7 @@
    
 }
 p{
-    font-size: 40px;
+    font-size: 30px;
     margin-left: 100px;
     display:inline-block;
     
@@ -19,7 +19,17 @@ fieldset{
     width: auto;
 }
 input{
-    text-align: center;
+    font-size: 30px;
+    display: block;
+    margin: auto;
+}
+button{
+    font-size: 30px;
+    display: block;
+    margin: auto;
     
-    font-size: 40px;
+}
+#flex{
+   
+    font-size: 1000px;
 }
