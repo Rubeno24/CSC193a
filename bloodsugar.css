@@ -9,7 +9,7 @@
    
 }
 p{
-    font-size: 50px;
+   
     margin-left: 100px;
     display:inline-block;
     
@@ -30,5 +30,6 @@ button{
     
 }
 #flex{
+    font-size: 40px;
     text-align: center;
 }
