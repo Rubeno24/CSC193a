@@ -5,7 +5,7 @@
 }
 
 #WebsiteHeader {
-    font-size: 100px;
+    font-size: 1000px;
     text-align: center;
     margin: 0%;
 }
@@ -67,3 +67,35 @@
     padding-bottom:120px;
     
 }
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    flex-wrap: wrap; 
+    padding-left: 600px;
+}
+
+legend{
+    font-size: 25px;
+    margin-left: 100px;
+
+}
+
+fieldset{
+    padding: 50px;
+}
+#Fancify{
+    margin-left: 85px;
+}
+
+#Moo{
+    margin-top: 10px;
+    display:block;
+
+}
+#Button5{
+    padding: 10px;
+}
+
+
