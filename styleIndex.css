@@ -73,7 +73,7 @@
     flex-direction: row;
     flex-flow: wrap;
     flex-wrap: wrap; 
-    padding-left: 600px;
+    padding-left: 700px;
 }
 
 legend{
@@ -98,4 +98,8 @@ fieldset{
     padding: 10px;
 }
 
-
+#FancifyHeader{
+    text-align: center;
+    
+    font-size: 50px;
+}
